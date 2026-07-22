@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/Muhammad-Umair13/Muhammad-Umair13/blob/main/banner.png" alt="banner" width="100%"/>
-
-<br/>
-
 # Hi 👋, I'm Muhammad Umair
 
 ### Frontend Developer &nbsp;|&nbsp; Next.js & React &nbsp;|&nbsp; Exploring AI Engineering
