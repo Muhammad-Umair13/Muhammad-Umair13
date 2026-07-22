@@ -27,22 +27,22 @@
 <tr>
 <td width="50%" valign="top">
 
+### ✅ Full-Stack Todo App with AI Chatbot
+Task management app with JWT authentication and complete RESTful CRUD.
+
+**Stack:** Next.js 14 (TS) · FastAPI · PostgreSQL
+
+🔗 [Live Demo](https://todowebapps.vercel.app/) · [Code](https://github.com/Muhammad-Umair13/Todo-FullStack-WebApp)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🛒 Car Rental Website
 E-commerce style site with cart functionality, product filtering, and dynamic routing.
 
 **Stack:** Next.js · Tailwind CSS
 
 🔗 [Live Demo](https://car-rent-webs.vercel.app/)
-
-</td>
-<td width="50%" valign="top">
-
-### ✅ Full-Stack Todo App
-Task management app with JWT authentication and complete RESTful CRUD.
-
-**Stack:** Next.js 14 (TS) · FastAPI · PostgreSQL
-
-🔗 [Live Demo](https://todowebapps.vercel.app/) · [Code](https://github.com/Muhammad-Umair13/Todo-FullStack-WebApp)
 
 </td>
 </tr>
@@ -69,14 +69,6 @@ Task management app with JWT authentication and complete RESTful CRUD.
 
 <br/>
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=muhammad-umair13&show_icons=true&locale=en&theme=default&hide_border=true" alt="muhammad-umair13" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-umair13&show_icons=true&locale=en&layout=compact&hide_border=true" alt="muhammad-umair13" width="42%"/>
-</p>
-
-<br/>
 
 ## 🌐 Connect With Me
 
