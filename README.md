@@ -1,31 +1,90 @@
-![logo](https://github.com/Muhammad-Umair13/Muhammad-Umair13/blob/main/banner.png)
-<h1 align="center">Hi 👋, I'm Muhammad Umair</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-umair13&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-umair13" /> </p>
+<img src="https://github.com/Muhammad-Umair13/Muhammad-Umair13/blob/main/banner.png" alt="banner" width="100%"/>
 
-- 🔭 I make E-commerce website [Car Rental Website](https://car-rent-webs.vercel.app/)
+<br/>
 
-- 🌱 I’m currently learning **Python**
+# Hi 👋, I'm Muhammad Umair
 
-- 👨‍💻 All of my projects are available at [https://umair-portfolio-zeta.vercel.app](https://umair-portfolio-zeta.vercel.app)
+### Frontend Developer &nbsp;|&nbsp; Next.js & React &nbsp;|&nbsp; Exploring AI Engineering
 
-- 📫 How to reach me **fastai590@gmail.com**
+<br/>
+</div>
 
-- ⚡ Fun fact **🚀 Future AI enthusiast — currently learning Python to make machines smarter.**
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
+- 🔭 Currently building **full-stack web apps** with Next.js, FastAPI & PostgreSQL
+- 🌱 Currently learning **OpenClaw**, AI Agents & Prompt Engineering — training under GIAIC's Agentic AI Engineer track
+- 💼 Open to **freelance frontend projects & internships**
+- 👨‍💻 All projects: **[umair-portfolio-zeta.vercel.app](https://umair-portfolio-zeta.vercel.app)**
+- 📫 Reach me: **fastai590@gmail.com**
+
+<br/>
+
+## 🛠️ Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 Car Rental Website
+E-commerce style site with cart functionality, product filtering, and dynamic routing.
+
+**Stack:** Next.js · Tailwind CSS
+
+🔗 [Live Demo](https://car-rent-webs.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### ✅ Full-Stack Todo App
+Task management app with JWT authentication and complete RESTful CRUD.
+
+**Stack:** Next.js 14 (TS) · FastAPI · PostgreSQL
+
+🔗 [Live Demo](https://todowebapps.vercel.app/) · [Code](https://github.com/Muhammad-Umair13/Todo-FullStack-WebApp)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 💻 Tech Stack
+
 <p align="left">
-<a href="https://linkedin.com/in/muhammadumair-coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadumair-coder" height="30" width="40" /></a>
-<a href="https://instagram.com/umair_devcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umair_devcode" height="30" width="40" /></a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-umair13&show_icons=true&locale=en&layout=compact" alt="muhammad-umair13" /></p>
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-umair13&show_icons=true&locale=en" alt="muhammad-umair13" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=muhammad-umair13&show_icons=true&locale=en&theme=default&hide_border=true" alt="muhammad-umair13" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-umair13&show_icons=true&locale=en&layout=compact&hide_border=true" alt="muhammad-umair13" width="42%"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-umair13&" alt="muhammad-umair13" /></p>
+<br/>
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/muhammadumair-coder" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://instagram.com/umair_techap" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
